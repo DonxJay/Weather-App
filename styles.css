@@ -1,0 +1,20 @@
+.widgets {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+    
+}
+
+input{
+    border-radius: 190px;
+}
+
+button{
+    border-radius: 6px;
+}
+
+
+body {
+    background: linear-gradient(to right, #56CCF2, #2F80ED);
+    border-radius: 140px;
+}
